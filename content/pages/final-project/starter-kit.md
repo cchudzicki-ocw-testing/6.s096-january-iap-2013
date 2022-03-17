@@ -69,7 +69,7 @@ Optionally, convert the program to C++ and create a `Shape` parent class with su
 
 Read text from `stdin` and draw it on the image by changing pixel colors in the patterns of (very simple) letters. Here's an example of how you might render 'hi':
 
-{{< resource 62024122-c82c-d8dd-dade-4ceb1b4e1f83 "Red boxes against a white background, spelling out "hi"." >}}
+{{< resource "62024122-c82c-d8dd-dade-4ceb1b4e1f83" >}}
 
 Instead of hard-coding how to draw each letter shape, I recommend storing them as strings or in a separate file, but this is not necessary.
 
