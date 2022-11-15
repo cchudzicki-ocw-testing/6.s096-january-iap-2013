@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains links to individual pages for the first 6 lectures
+  of the course, containing lecture notes, lab exercises, and assignments. Only lecture
+  slides are available for Lectures 7 and 8 as there were no associated labs and assignments
+  for those sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lectures and Assignments

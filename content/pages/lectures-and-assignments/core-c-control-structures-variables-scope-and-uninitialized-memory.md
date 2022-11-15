@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on writing code in C, including
+  lecture notes, lab exercises, and an assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments

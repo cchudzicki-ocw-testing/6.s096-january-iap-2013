@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on the C compiler, including
+  lecture notes, lab exercises, and an assignment with solutions.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments

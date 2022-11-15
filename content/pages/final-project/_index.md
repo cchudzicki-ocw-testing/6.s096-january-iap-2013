@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final project of the course,
+  a starter kit, example projects, and list of third-party libraries.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

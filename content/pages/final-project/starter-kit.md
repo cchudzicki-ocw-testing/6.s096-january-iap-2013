@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a kit to help students get started on their final
+  project, including example code, exercises, and suggested project ideas.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

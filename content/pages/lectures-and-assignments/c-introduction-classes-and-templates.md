@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides materials for a lecture on C++ programming, classes,
+  and templates, including lecture notes and an assignment with.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lectures and Assignments
